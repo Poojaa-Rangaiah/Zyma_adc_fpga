@@ -1,0 +1,399 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e72b70a1-ba8f-4002-9d33-3db12cd9fd44")
+	(paper "A4")
+	(title_block
+		(title "ZYMA_ADC_FPGA")
+		(date "2024-06-28")
+		(rev "V01")
+		(company "SHAKRA INNOVATIONS PVT LIMITED")
+	)
+	(lib_symbols)
+	(sheet
+		(at 56.896 73.66)
+		(size 28.194 20.066)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08e7ed73-3f12-4988-b4c6-8758bb41acc1")
+		(property "Sheetname" "power"
+			(at 56.896 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 56.896 94.3106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.292 38.862)
+		(size 28.956 17.272)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "27c1e2bb-ca4a-4396-82dc-cf5a34cd3067")
+		(property "Sheetname" "fpga_page4"
+			(at 177.292 38.1504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_page4.kicad_sch"
+			(at 177.292 56.7186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.472 39.116)
+		(size 28.702 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "38382b6e-2bf1-4a11-a938-36954bea0f72")
+		(property "Sheetname" "fpga_page5"
+			(at 220.472 38.4044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_page5.kicad_sch"
+			(at 220.472 57.4806 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 38.608)
+		(size 29.464 15.494)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44727ffa-72ab-4a54-a184-48e680ffd003")
+		(property "Sheetname" "fpga_page2"
+			(at 93.98 37.8964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_page2.kicad_sch"
+			(at 93.98 54.6866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 98.552 74.422)
+		(size 32.512 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5903b4aa-f29a-49a4-9430-1673a02a54f6")
+		(property "Sheetname" "ddr3"
+			(at 98.552 73.7104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr3.kicad_sch"
+			(at 98.552 94.0566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 221.742 75.692)
+		(size 36.322 18.034)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "61aa7636-a489-4c67-86e6-82168d0668fc")
+		(property "Sheetname" "expansion"
+			(at 221.742 74.9804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "expansion.kicad_sch"
+			(at 221.742 94.3106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.086 38.608)
+		(size 28.956 14.986)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d04a284-014b-4d3b-a079-7289af29f4b9")
+		(property "Sheetname" "fpga_page1"
+			(at 53.086 37.8964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_page1.kicad_sch"
+			(at 53.086 54.1786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.166 74.168)
+		(size 25.4 16.002)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0db79ec-f919-4f9a-8899-c66f783fea9b")
+		(property "Sheetname" "ftdi"
+			(at 185.166 73.4564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ftdi.kicad_sch"
+			(at 185.166 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.128 38.354)
+		(size 32.258 16.256)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecb34b55-421b-46af-9c1a-4dbef0ad353a")
+		(property "Sheetname" "fpga_page3"
+			(at 135.128 37.6424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_page3.kicad_sch"
+			(at 135.128 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.082 74.422)
+		(size 27.686 16.764)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef37dc63-878b-440c-8b8f-45de478d84d4")
+		(property "Sheetname" "adc"
+			(at 148.082 73.7104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "adc.kicad_sch"
+			(at 148.082 91.7706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zyma_adc_fpga_v01"
+				(path "/e72b70a1-ba8f-4002-9d33-3db12cd9fd44"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "xc7s75")(type "KiCad")(uri "${KIPRJMOD}/symbols/XC7S75-1FGGA484C/XC7S75-1FGGA484C.kicad_sym")(options "")(descr ""))
+  (lib (name "mt41")(type "KiCad")(uri "${KIPRJMOD}/symbols/MT41K128M16JT-125_K/MT41K128M16JT-125_K.kicad_sym")(options "")(descr ""))
+  (lib (name "adc9481")(type "KiCad")(uri "${KIPRJMOD}/symbols/AD9481BSUZ-250/AD9481BSUZ-250.kicad_sym")(options "")(descr ""))
+  (lib (name "pmic")(type "KiCad")(uri "${KIPRJMOD}/symbols/ADP5052ACPZ-R7/ADP5052ACPZ-R7.kicad_sym")(options "")(descr ""))
+  (lib (name "ftdi")(type "KiCad")(uri "${KIPRJMOD}/symbols/FT2232HQ-TRAY/FT2232HQ-TRAY.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)
