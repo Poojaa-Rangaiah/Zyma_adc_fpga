@@ -5326,1435 +5326,720 @@
 		)
 		(uuid "f453daa7-e3e5-4b80-aa0f-1b93a8ab946f")
 	)
-	(global_label "DDR3_DQ7"
-		(shape input)
-		(at 241.3 106.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "012d4a39-766d-4e76-aadd-c2cb149e5a27")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 39.37 151.13 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0eab19c2-dc79-4a03-b1b0-c6c7f6355c55")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.9462 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ12"
-		(shape input)
-		(at 241.3 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "14192e59-65fe-4b36-971b-0a3f898fd27f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A0"
-		(shape input)
-		(at 48.26 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1523951f-c982-4036-bb2a-0bd85cd8f27e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A2"
-		(shape input)
-		(at 48.26 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "15796054-a6ce-4f64-b5bf-7fda801c4248")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ10"
-		(shape input)
-		(at 241.3 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "194590a3-220b-4868-bdb4-4d1c0f25033f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A9"
-		(shape input)
-		(at 48.26 116.84 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1e226fd7-8b72-4e76-8dc6-8d8924dc97d2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 39.37 166.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1fdfaff8-b855-43b6-9d73-56cb7d091450")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.9462 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ5"
-		(shape input)
-		(at 241.3 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "23050367-b397-40dd-b332-a8c8cc17affd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 237.49 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2563233f-6fe3-4304-a1ee-94e55cf9d338")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.9138 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ0"
-		(shape input)
-		(at 241.3 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "29d7732c-faee-4c56-a5cf-3910e92b5d0a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A3"
-		(shape input)
-		(at 48.26 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "29f224a0-0bb9-4676-ae5e-aa5ffde8158a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 251.46 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2e9e0242-29de-499b-ad1b-3c08c1acbcee")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.3157 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 156.21 35.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3050cc44-8293-4c08-9c1f-4648cd74e799")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0657 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_DM1"
-		(shape input)
-		(at 48.26 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "348e3d7c-a458-4182-a40e-c5c428b9f68e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.6268 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ2"
-		(shape input)
-		(at 241.3 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "45589378-285b-42e6-a953-38c8f6c814d0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A6"
-		(shape input)
-		(at 48.26 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "47a781aa-c309-44cf-a74e-4ad509f13ddb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 199.39 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "488759fa-5dfe-43f4-8667-98dbe2dc2dd8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.2457 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 251.46 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4ffe7aad-fa3a-4c6d-8279-0b2623781701")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.3157 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQS1_N"
-		(shape input)
-		(at 241.3 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5d4f33c3-2d89-4080-b3ac-8d115b4f8abb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.5899 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_BA0"
-		(shape input)
-		(at 48.26 132.08 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "621e7d68-a51a-4749-b2f4-85efc5aec733")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.9896 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_RESET"
-		(shape input)
-		(at 48.26 58.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "68cdadd1-f167-4305-9c47-cc13bea467d0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.5426 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ14"
-		(shape input)
-		(at 241.3 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6ed6b357-d939-4d21-aa71-a69a69d4ab40")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ13"
-		(shape input)
-		(at 241.3 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6f65a5ae-4dbd-4062-bce8-01c3ba7ca38a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_CS"
-		(shape input)
-		(at 48.26 68.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "722ed15c-5e9a-44c1-9c1b-939e1941387b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.0782 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQS0_N"
-		(shape input)
-		(at 241.3 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "74f659cc-b643-4b11-9ea7-0a518a673457")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.5899 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 39.37 173.99 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "75bd0d18-6e0b-45cc-97fa-f470f8b70997")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.5143 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQS1_P"
-		(shape input)
-		(at 241.3 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7c839cc7-6b80-46a1-93cb-2a84df42af7a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.5294 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A8"
-		(shape input)
-		(at 48.26 114.3 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7ca66351-21ff-41f7-bd5f-7a45e757d874")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_BA2"
-		(shape input)
-		(at 48.26 137.16 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "87e5b0d8-ace8-40cb-87ae-988cfbc4dcc2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.9896 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A7"
-		(shape input)
-		(at 48.26 111.76 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8c395115-1206-43d0-afeb-3f91867c1d84")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ9"
-		(shape input)
-		(at 241.3 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8f2f8e25-ed01-4aed-991e-00a978392bbf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQS0_P"
-		(shape input)
-		(at 241.3 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "96bfb3d3-3e65-4529-9daf-9cd3f1dcdf68")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.5294 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
+	(label "GND"
 		(at 39.37 189.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "9aee0eae-6e70-4700-a917-27b95924f8af")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.5143 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "00a4fedd-c9cc-4362-8949-eb278a9130e3")
 	)
-	(global_label "GND"
-		(shape input)
-		(at 39.37 158.75 180)
+	(label "DD3_BA0"
+		(at 48.26 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "9bfd38d1-c886-487e-81df-50d7bcd88076")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.5143 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "051f8f08-8a8f-48f7-9731-d4467bf31bc7")
 	)
-	(global_label "DD3_WE"
-		(shape input)
-		(at 48.26 66.04 180)
+	(label "GND"
+		(at 251.46 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "9d4e2b14-ffce-487c-8bc8-9a6f3191d0f5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.9573 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "092e982f-ad1d-4341-a8e9-36be10336376")
 	)
-	(global_label "DD3_A4"
-		(shape input)
-		(at 48.26 104.14 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9e512f55-de9a-41da-b961-625048b3acb3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A1"
-		(shape input)
-		(at 48.26 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9e60de43-cbad-4f3e-8b92-d39e7ff99b8b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A12"
-		(shape input)
-		(at 48.26 124.46 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a11f18ac-ed01-45d6-ae71-50379edc3090")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0501 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 255.27 59.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a2ae822a-8935-4956-bf9c-fc6e97bcdcff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 262.1257 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 250.19 35.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a2f8d2b0-a381-4cec-b725-5b397dcfa58f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 260.6138 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ6"
-		(shape input)
-		(at 241.3 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a48f19bc-2b74-4f8f-a056-36df8f10f486")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ4"
-		(shape input)
-		(at 241.3 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a853559f-eba8-4c02-bf0c-1573e8d8e577")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 39.37 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a946677f-ebed-4434-9601-31df10722c25")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.9462 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_CLK0_N"
-		(shape input)
-		(at 35.56 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "afc175ae-4ea8-4656-9165-2ccd902b2a92")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.782 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A13"
-		(shape input)
-		(at 48.26 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b1e64c62-3121-4195-91b6-4a4bec08c375")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0501 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ11"
-		(shape input)
-		(at 241.3 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b34bcf93-40a1-4102-8beb-b23364903db2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVTT"
-		(shape input)
-		(at 26.67 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c22366d8-ebde-476f-bad1-1b2e7824c8e7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.851 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A10"
-		(shape input)
-		(at 48.26 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c863561a-bac7-45bc-8f2b-59a64d4eba6c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0501 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ3"
-		(shape input)
-		(at 241.3 96.52 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c883e10f-f6db-4e33-b2f0-9be58f86cb62")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_CLK0_P"
-		(shape input)
-		(at 29.21 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c9371da1-a6fc-463e-a829-446ebb7f9f61")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.4925 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 251.46 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c9b17177-ef7e-4834-a582-7ea1cd8d3634")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 258.3157 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_RAS"
-		(shape input)
-		(at 48.26 60.96 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cd9ff2b8-77f5-4203-9ca5-70ae061e029a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.9896 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_CAS"
-		(shape input)
-		(at 48.26 63.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d03c4e59-e9d9-4167-8e2b-4f4f2d22f80c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.9896 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_CKE0"
-		(shape input)
-		(at 48.26 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d36209a1-f400-44ae-9d02-517a8912bd2c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 35.6592 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ1"
-		(shape input)
-		(at 241.3 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d3a3985d-57e3-4bce-9a43-a49145de641b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVTT"
-		(shape input)
-		(at 55.88 24.13 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e00f9949-82ff-456e-b1bb-6e60ce4607ec")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.061 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_BA1"
-		(shape input)
-		(at 48.26 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e2e154b1-239a-472a-9fe7-ef1e38575b8a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.9896 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ15"
-		(shape input)
-		(at 241.3 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "eb52b784-1cd6-4ebc-8d7a-42c26819b187")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.2918 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_DM0"
-		(shape input)
-		(at 48.26 76.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f1da6823-dd5d-40cd-82da-56aa0e6f98e4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.6268 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DD3_A11"
-		(shape input)
-		(at 48.26 121.92 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f2921906-5d2b-4e1f-aa55-56db5690d688")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.0501 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDR3_DQ8"
-		(shape input)
+	(label "DDR3_DQ8"
 		(at 241.3 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "f32d1f7e-3809-4815-b9fd-6387d5cd837d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.0823 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "0f54b66c-91ba-492c-a896-1cf1691b87e6")
 	)
-	(global_label "DDR3_RESET"
-		(shape input)
-		(at 181.61 156.21 180)
+	(label "DD3_A0"
+		(at 48.26 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "f7ee6080-aa73-444c-92e6-d5e14f21c3a8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.8926 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "0fb21bd0-ffdc-4074-9be2-b79e3558e5b4")
 	)
-	(global_label "DD3_A5"
-		(shape input)
-		(at 48.26 106.68 180)
+	(label "DD3_CLK0_P"
+		(at 29.21 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "f8213e3e-0f6c-48b0-ada4-c809e33d8ec7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 38.2596 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
+		(uuid "104fbfff-fc97-4443-8918-7f68c7bff52c")
 	)
-	(global_label "DD3_ODT"
-		(shape input)
+	(label "DD3_BA1"
+		(at 48.26 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "10d0f9b9-086b-46b1-84b0-e1b7f85258a4")
+	)
+	(label "DDRVCC"
+		(at 39.37 166.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "235ce76e-3b65-473b-905f-740d543fa2e4")
+	)
+	(label "GND"
+		(at 199.39 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2846e1b1-48f6-4e5c-b051-3b576fad2790")
+	)
+	(label "DDRVCC"
+		(at 39.37 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2885ff70-be71-4364-93d3-3a1067269316")
+	)
+	(label "DD3_WE"
+		(at 48.26 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2b8adb0d-e489-48d2-8017-75f3a8a6c0f1")
+	)
+	(label "GND"
+		(at 39.37 173.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2d3c0cb5-aac1-4d1c-a247-fb3aaeda179c")
+	)
+	(label "DD3_CKE0"
+		(at 48.26 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "30d570b7-30a1-4769-8600-c826ef4d1916")
+	)
+	(label "DDR3_DQ14"
+		(at 241.3 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3176b946-439d-4ea0-a492-a697c233f4eb")
+	)
+	(label "DDR3_DQ2"
+		(at 241.3 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "32f870b3-8317-49f9-ae2b-746e2ebedde4")
+	)
+	(label "DDR3_DQ1"
+		(at 241.3 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "37aed91d-2356-49d9-b1e5-612845bed77d")
+	)
+	(label "DD3_ODT"
 		(at 27.94 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "fb6918ad-48d1-4ea5-9fc5-5894c354dcd6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.6696 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
+		(uuid "3a27915a-307c-4b1a-9757-98518909d508")
+	)
+	(label "DD3_CS"
+		(at 48.26 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right bottom)
 		)
+		(uuid "3dfc423a-470c-4347-b6fa-1cd80409eecc")
+	)
+	(label "DDR3_DQ4"
+		(at 241.3 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4522d750-1cca-49bc-a1ce-89f6fc83d9eb")
+	)
+	(label "DDR3_DQ3"
+		(at 241.3 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4cf19512-bff3-42bc-9b64-4aa8aa73ef28")
+	)
+	(label "DDRVTT"
+		(at 26.67 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "56010b2f-e592-4b27-be5f-ba4b25dab831")
+	)
+	(label "DDR3_DQ10"
+		(at 241.3 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5619b789-07e1-4a52-bc48-26e6fae17c3d")
+	)
+	(label "DD3_A11"
+		(at 48.26 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "56d1ffa4-0213-46c3-b848-a693aa5bdeab")
+	)
+	(label "DD3_A6"
+		(at 48.26 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5708fe63-a6be-45a1-a833-ecbb2ce01ec8")
+	)
+	(label "DD3_A5"
+		(at 48.26 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "59383ecd-8a80-4cf0-ac8f-150ff9aa7679")
+	)
+	(label "DDR3_DQ15"
+		(at 241.3 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c532017-96be-43d7-935f-ecd9394880ff")
+	)
+	(label "DDRVCC"
+		(at 237.49 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f397ca8-6890-4a29-a5aa-6e6847791f6e")
+	)
+	(label "DDR3_DQ0"
+		(at 241.3 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "60d3ba86-7132-410d-9cb1-74d9ed0e539f")
+	)
+	(label "DDR3_DQ9"
+		(at 241.3 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61b64790-ed66-47f2-93c6-58a0e842511b")
+	)
+	(label "DD3_CAS"
+		(at 48.26 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6b6f7815-a777-4f5c-8d01-e78cc453209e")
+	)
+	(label "DDRVCC"
+		(at 250.19 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6ebdd41d-3843-470a-ba8b-735a5691345a")
+	)
+	(label "DDR3_DQ6"
+		(at 241.3 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "758b5b3d-5a43-44d7-a9a0-82159cb39cac")
+	)
+	(label "DDR3_DQS1_N"
+		(at 241.3 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b7d8bd9-4e50-4728-b4d3-ac01054a064c")
+	)
+	(label "DD3_CLK0_N"
+		(at 35.56 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7bc52678-7dab-4fc9-8d01-32fc6485c148")
+	)
+	(label "DDR3_DQ11"
+		(at 241.3 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "891bc946-e963-4a26-a01a-d164c780d213")
+	)
+	(label "GND"
+		(at 156.21 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8951b327-207e-450f-be5e-872903855b26")
+	)
+	(label "DDR3_DQS0_P"
+		(at 241.3 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8be9c8a6-0e1e-4009-81df-386dfb788403")
+	)
+	(label "DDR3_RESET"
+		(at 48.26 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8cefcca8-3697-407a-a8aa-b9a3178b828a")
+	)
+	(label "DD3_BA2"
+		(at 48.26 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8f988bca-2355-4aab-9fe7-388491faf36c")
+	)
+	(label "GND"
+		(at 255.27 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "92ae3ec8-5400-4cf7-b2f6-6d495d8fd117")
+	)
+	(label "DDR3_DQS0_N"
+		(at 241.3 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95fa12a1-8d75-4a21-bc51-ca34fd21bce8")
+	)
+	(label "DDR3_DQ12"
+		(at 241.3 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a6e4eb9-9fba-4e9e-ac96-338b4df50498")
+	)
+	(label "DD3_A9"
+		(at 48.26 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9cad7739-99ed-453d-a739-8b8adf5e7ac0")
+	)
+	(label "DD3_A2"
+		(at 48.26 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9f51f6f4-5b03-490d-9740-b425ba8c2a08")
+	)
+	(label "DD3_A13"
+		(at 48.26 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9f9f2052-afa6-45f6-a2dd-13e57367e1b8")
+	)
+	(label "DD3_A1"
+		(at 48.26 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a3d7c7b4-15a1-43ab-ac0a-65c50af858ef")
+	)
+	(label "DDR3_DQ5"
+		(at 241.3 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a473cc88-aec4-46dc-a6f0-4193e8fca10c")
+	)
+	(label "DD3_RAS"
+		(at 48.26 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a6fb04c0-c7d7-45a7-9b3b-e347e278884f")
+	)
+	(label "DD3_A3"
+		(at 48.26 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aca4100e-9eca-412c-a19c-70f313887a50")
+	)
+	(label "DDRVTT"
+		(at 55.88 24.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b141e14d-74f3-459c-afd2-6221caa7b55f")
+	)
+	(label "GND"
+		(at 251.46 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1a2d41f-b504-4ad9-bb64-af285dc95561")
+	)
+	(label "DDR3_RESET"
+		(at 181.61 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b947aaaa-17a0-4367-8495-8eda97806aa3")
+	)
+	(label "GND"
+		(at 251.46 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1c35ce0-d0d7-4836-93d7-b2c8f3a7957a")
+	)
+	(label "DD3_A7"
+		(at 48.26 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c93ac43a-6693-409a-bd1d-6b656e03df53")
+	)
+	(label "DD3_DM1"
+		(at 48.26 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cc9417b3-04aa-4389-a6b7-d3c5f003587c")
+	)
+	(label "DD3_A10"
+		(at 48.26 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ccf77eec-b2d5-4e68-9615-a7334f0e8fd6")
+	)
+	(label "DDRVCC"
+		(at 39.37 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d38cb9b4-a40c-474d-a065-af24e2310782")
+	)
+	(label "DDR3_DQ13"
+		(at 241.3 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db7dc81a-4bd0-4385-919d-b5071ec1dec8")
+	)
+	(label "DD3_A4"
+		(at 48.26 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dc67fc14-9c6b-421c-aebf-2bfe1f34456b")
+	)
+	(label "DD3_A12"
+		(at 48.26 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e1587a00-aec1-4db5-b823-9133c0c4a235")
+	)
+	(label "DD3_DM0"
+		(at 48.26 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e99babb9-9711-46b7-9245-99c1dfc137b4")
+	)
+	(label "GND"
+		(at 39.37 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ec797e71-f3db-4058-b1eb-23c7398083b3")
+	)
+	(label "DD3_A8"
+		(at 48.26 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f5b54d8a-00af-4fd5-88f1-653dbf91d4dd")
+	)
+	(label "DDR3_DQS1_P"
+		(at 241.3 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6805a6e-b62d-4fce-9528-48a300e8533d")
+	)
+	(label "DDR3_DQ7"
+		(at 241.3 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fc5ee49a-ed53-44be-ab32-964111e9b0b1")
 	)
 	(symbol
 		(lib_id "Device:R")

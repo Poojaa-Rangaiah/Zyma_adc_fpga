@@ -10081,225 +10081,115 @@
 		)
 		(uuid "ff6f2a3c-c238-43e8-9a04-b3a59081bff3")
 	)
-	(global_label "GND"
-		(shape input)
-		(at 207.01 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "12f262e1-b044-4dbb-8f7d-b62de95095b3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.1543 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 207.01 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1d127930-0d94-4fa4-9a0c-90e26777630f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.1543 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 152.4 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4ef43905-70b7-42fc-93c7-2b94a204d30c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 145.5443 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DDRVCC"
-		(shape input)
-		(at 139.7 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "55bc16c9-ac70-4e8b-bde6-dd7c0586b39f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.2762 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VCC3V3"
-		(shape input)
-		(at 152.4 64.77 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "69a9db61-a8e1-4636-ae82-65ff0e45bbca")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.2786 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VCC3V3"
-		(shape input)
-		(at 187.96 43.18 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7958a61f-5301-4bae-a74f-ee22647b386f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.8386 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 156.21 60.96 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "90650f51-2f72-40f5-b602-615704e324a2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.3543 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VCC3V3"
-		(shape input)
-		(at 156.21 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9925c918-dd66-4c33-92a3-115b9d8ecbee")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.0886 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 139.7 85.09 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a4a1634c-2501-4327-9bd0-984874ccc948")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.8443 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
+	(label "GND"
 		(at 187.96 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify right bottom)
 		)
-		(uuid "c9bdf246-96b4-4ddc-af75-4747dce91f21")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.1043 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
+		(uuid "349c16c4-53d7-472d-be68-d47f0ef9793c")
+	)
+	(label "GND"
+		(at 139.7 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right bottom)
 		)
+		(uuid "49fd9c81-988d-4756-acc0-e6f3796c0e8b")
+	)
+	(label "VCC3V3"
+		(at 187.96 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4a5ff0ae-ff9b-48d5-aa8f-c48feea4b427")
+	)
+	(label "GND"
+		(at 207.01 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "57e6d4f0-a5e7-4053-a672-03d9274654b7")
+	)
+	(label "DDRVCC"
+		(at 139.7 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b2eaca3-c76e-45c1-b847-99372b002619")
+	)
+	(label "VCC3V3"
+		(at 156.21 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61e1cc8d-dbe1-41fe-bd3b-4541c9fccec5")
+	)
+	(label "GND"
+		(at 156.21 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d3e44ee-ded7-4be6-83ab-29faee346829")
+	)
+	(label "VCC3V3"
+		(at 152.4 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92542ae7-265e-4966-8fcd-d5a531914765")
+	)
+	(label "GND"
+		(at 207.01 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "95add8c8-fa69-479a-a173-918b34f3a3ed")
+	)
+	(label "GND"
+		(at 152.4 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c3f06486-2667-4302-851d-7bc86b863168")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -14369,7 +14259,7 @@
 		(dnp no)
 		(uuid "707fe7ac-ec8f-4449-a927-b0a8152c4b1d")
 		(property "Reference" "R171"
-			(at 209.804 70.612 90)
+			(at 212.598 70.612 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14377,7 +14267,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 207.772 73.914 90)
+			(at 207.772 70.612 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14574,7 +14464,7 @@
 		(dnp no)
 		(uuid "a09ccaa8-6c5f-446a-96c3-9f98b0e5ba60")
 		(property "Reference" "R170"
-			(at 209.804 65.532 90)
+			(at 212.598 65.532 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14582,7 +14472,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 207.772 68.834 90)
+			(at 207.772 65.532 90)
 			(effects
 				(font
 					(size 1.27 1.27)
