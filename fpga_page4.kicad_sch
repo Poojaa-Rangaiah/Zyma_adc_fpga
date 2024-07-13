@@ -10857,6 +10857,36 @@
 		)
 		(uuid "fe91c661-439b-4959-9375-fc027c1b5a3c")
 	)
+	(text "No Load"
+		(exclude_from_sim no)
+		(at 143.256 159.258 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "63e9ba49-d5f9-401b-ba6b-eefc4dd9f38f")
+	)
+	(text "No Load"
+		(exclude_from_sim no)
+		(at 143.256 174.498 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "9191918a-9e79-4b1c-9d74-140a2e2bf36f")
+	)
+	(text "No Load"
+		(exclude_from_sim no)
+		(at 143.256 144.018 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "c3c190fc-f02b-4a73-ac18-2018ff4fd89f")
+	)
 	(label "CK_IO40"
 		(at 260.35 72.39 0)
 		(fields_autoplaced yes)

@@ -11165,7 +11165,7 @@
 		)
 		(uuid "dddd61dd-4e04-42ca-ba81-ceeaeefec71f")
 	)
-	(label "DDR3_12"
+	(label "DDR3_A12"
 		(at 125.73 96.52 0)
 		(fields_autoplaced yes)
 		(effects
